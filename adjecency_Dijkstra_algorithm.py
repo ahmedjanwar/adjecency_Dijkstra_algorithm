@@ -9,6 +9,7 @@ import numpy as np
 import heapq
 
 # using my student number as the seed for randomness
+# example 2001332
 student_number = int(input("Enter your student number (Numbers only): "))
 random.seed(student_number)
 
